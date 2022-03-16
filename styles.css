@@ -1,0 +1,93 @@
+body {
+  background-color: #fff;
+  color: #333;
+  font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+  padding: 1em;
+  margin: 0;
+}
+
+/*  ---- start exercise 1 ----  */
+.nav-items ul {
+  max-width: 700px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-items a:link,
+.nav-items a:visited {
+  background-color: #4d7298;
+  border: 2px solid #4d7298;
+  border-radius: 10px;
+  color: #fff;
+  padding: 0.5em;
+  display: inline-block;
+  text-decoration: none;
+}
+/*  ---- end exercise 1 ----  */
+
+/*  ---- start exercise 2 ----  */
+
+.parent {
+  border: 2px solid #4d7298;
+  border-radius: 10px;
+  width: 400px;
+  height: 300px;
+}
+
+.child {
+  background-color: #4d7298;
+  color: #fff;
+  padding: 20px;
+  width: 110px;
+  border-radius: 10px;
+}
+/*  ---- end exercise 2 ----  */
+
+/*  ---- start exercise 3 ----  */
+.card-3 {
+  border: 1px solid #4d7298;
+  border-radius: 10px;
+  height: 150px;
+  width: 200px;
+}
+
+/*  ---- end exercise 3 ----  */
+
+/*  ---- start exercise 4 ----  */
+.img-demo {
+  height: 200px;
+}
+
+.card-4 {
+  border: 1px solid #4d7298;
+  border-radius: 10px;
+  width: 500px;
+}
+
+.card-img {
+  border-radius: 10px;
+}
+
+.reserve-btn {
+  background-color: #4d7298;
+  color: #fff;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 10px;
+}
+/*  ---- end exercise 4 ----  */
+
+/*  ---- start exercise 5 ----  */
+.tags {
+  width: 800px;
+}
+
+.tags li {
+  padding: 6px;
+  margin: 6px;
+  background-color: rgb(111, 41, 97);
+  color: #fff;
+  border-radius: 10px;
+}
+/*  ---- end exercise 5 ----  */
